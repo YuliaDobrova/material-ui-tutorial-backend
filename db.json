@@ -1,0 +1,40 @@
+{
+  "notes": [
+    {
+      "title": "Finish tutorial",
+      "details": "Study and practice Material UI tutorial ",
+      "category": "todos",
+      "id": 1
+    },
+    {
+      "title": "Drink a cup of Coffee",
+      "details": "Go downstairs just to do some exercises and physical training",
+      "category": "reminders",
+      "id": 2
+    },
+    {
+      "title": "Make a Modal Window",
+      "details": "This is a modal with MUI",
+      "category": "work",
+      "id": 3
+    },
+    {
+      "title": "Kiss my son",
+      "details": "While he is staying right nearby me",
+      "category": "reminders",
+      "id": 4
+    },
+    {
+      "title": "Hug Bogdan Lyamzin",
+      "details": "For everything good that he did to me",
+      "category": "reminders",
+      "id": 5
+    },
+    {
+      "title": "Show an App to my husband",
+      "details": "Cause an App is really cool",
+      "category": "todos",
+      "id": 6
+    }
+  ]
+}
